@@ -54,5 +54,33 @@
             {"yearsPerTurn":  2, "untilTurn": 200},
             {"yearsPerTurn":  1, "untilTurn": 300}
         ]
+    },
+    {
+        "name": "Warp Speed",
+        "modifier": 0.10,
+        "productionCostModifier": 0.10,
+        "goldCostModifier": 0.10,
+        "scienceCostModifier": 0.10,
+        "cultureCostModifier": 0.10,
+        "faithCostModifier": 0.10,
+        "improvementBuildLengthModifier": 0.10,
+        "barbarianModifier": 0.10,
+        "goldGiftModifier": 3,
+        "cityStateTributeScalingInterval": 3,
+        "goldenAgeLengthModifier": 0.30,
+        "religiousPressureAdjacentCity": 18,
+        "peaceDealDuration": 3,
+        "dealDuration": 10,
+        "startYear": -4000,
+        "turns": [
+            {"yearsPerTurn": 60, "untilTurn":  10},
+            {"yearsPerTurn": 40, "untilTurn":  25},
+            {"yearsPerTurn": 30, "untilTurn": 40},
+            {"yearsPerTurn": 20, "untilTurn": 50},
+            {"yearsPerTurn": 10, "untilTurn": 60},
+            {"yearsPerTurn":  5, "untilTurn": 75},
+            {"yearsPerTurn":  2, "untilTurn": 100},
+            {"yearsPerTurn":  1, "untilTurn": 300}
+        ]
     }
 ]
